@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://shalinisharma.github.io/atom.xml" rel="self"/>
-  <link href="http://shalinisharma.github.io/"/>
-  <updated>2014-08-02T18:14:41-07:00</updated>
-  <id>http://shalinisharma.github.io/</id>
+  <title><![CDATA[Shalini Sharma]]></title>
+  <link href="http://shalinisharmablog.com/atom.xml" rel="self"/>
+  <link href="http://shalinisharmablog.com/"/>
+  <updated>2014-08-02T18:26:57-07:00</updated>
+  <id>http://shalinisharmablog.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Shalini Sharma]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://shalinisharma.github.io/blog/2014/08/02/test/"/>
+    <link href="http://shalinisharmablog.com/blog/2014/08/02/test/"/>
     <updated>2014-08-02T18:05:08-07:00</updated>
-    <id>http://shalinisharma.github.io/blog/2014/08/02/test</id>
+    <id>http://shalinisharmablog.com/blog/2014/08/02/test</id>
     <content type="html"><![CDATA[<p>Test Post</p>
 ]]></content>
   </entry>
