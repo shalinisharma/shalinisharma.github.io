@@ -3,38 +3,38 @@
   
   
   <url>
-    <loc>http://shalinisharmablog.com/blog/2014/08/03/operting-system-projects/</loc>
-    <lastmod>2014-08-03T12:01:33-07:00</lastmod>
+    <loc>http://shalinisharmablog.com/blog/2014/08/03/operating-systems/</loc>
+    <lastmod>2014-08-03T21:22:08-07:00</lastmod>
     <priority>0.8</priority>
   </url>
+  
   
   <url>
-    <loc>http://shalinisharmablog.com/blog/2014/08/02/test/</loc>
-    <lastmod>2014-08-02T18:05:08-07:00</lastmod>
-    <priority>0.8</priority>
+    <loc>http://shalinisharmablog.com/blog/archives/</loc>
+    <lastmod>2014-08-03T23:12:50-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
-  
   
   <url>
     <loc>http://shalinisharmablog.com/</loc>
-    <lastmod>2014-08-03T12:42:00-07:00</lastmod>
+    <lastmod>2014-08-03T23:12:50-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://shalinisharmablog.com/blog/archives/</loc>
-    <lastmod>2014-08-03T12:42:00-07:00</lastmod>
+    <loc>http://shalinisharmablog.com/about/</loc>
+    <lastmod>2014-08-03T23:12:50-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  
   
   <url>
-    <loc>http://shalinisharmablog.com/posts/</loc>
-    <lastmod>2014-08-03T12:42:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <loc>http://shalinisharmablog.com/blog/about.html</loc>
+    <lastmod>2014-08-03T21:43:02Z</lastmod>
+    <priority>0.6</priority>
   </url>
-  
   
 </urlset>
